@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+db.sqlite3
+db.sqlite3-journal
+media/
+.env
+venv/
+env/
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
